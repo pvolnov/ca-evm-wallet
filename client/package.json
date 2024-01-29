@@ -1,0 +1,17 @@
+{
+  "name": "aps-wal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^5.0.0",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "secp256k1": "^5.0.0"
+  }
+}

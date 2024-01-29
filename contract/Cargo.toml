@@ -1,0 +1,19 @@
+[package]
+name = "abs-wallet"
+version = "1.2.0"
+authors = ["HERE Wallet Inc <petr@herewallet.app>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+sha2 = "0.10.8"
+serde = "1.0.36"
+serde_json = "1.0"
+near-sdk = "4.0.0"
+near-contract-standards = "4.0.0"
+bs58 = { version="0.4.0", features=["check"] }
+sha3 = "0.10"
+rlp = "0.4"
+hex = "0.4"
