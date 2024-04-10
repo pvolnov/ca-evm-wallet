@@ -92,3 +92,4 @@ For a complete wallet, it lacks implementation of some key methods, which was im
 - possibility to give access to signatures of certain methods and sum limits
 
 This smart contract on the NEAR blockchain provides a secure and efficient way to manage Ethereum wallets and transactions, paving the way for broader blockchain interoperability and enhanced user experience in the crypto ecosystem.
+# hot-wallet-contract
